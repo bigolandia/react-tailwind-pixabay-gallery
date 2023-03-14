@@ -14,6 +14,7 @@ function App() {
         .then(data => {
             console.log("ALTERAÇÂO GONCALO SILVA 14 MARÇO");
             console.log("ALTERAÇÂO NUMERO 2 GONCALO SILVA 14 MARÇO");
+            console.log("ALTERAÇÂO NUMERO 3 AGORA NO NOVO BRANCH GONCALO SILVA 14 MARÇO");
         setImages(data.hits);
         setIsLoading(false);
       })
